@@ -1,7 +1,7 @@
 
 # Employee Management System
 This project is a simple Employee Management System built with Java Spring Boot, this version does not use data JPA. It provides a RESTful API where clients can perform CRUD operations on the `Employee` entity.
-This was mainly made for practise with making a DAO and service layer, before takinf advantage of Spring Data JPA which I will use in the next project by refactorig this project and adding xome more features.
+This was mainly made for practise with making a DAO and service layer, before taking advantage of Spring Data JPA which I will use in the next project by refactorig this project and adding more features.
 
 ## Features
 - Retrieve all employees (`GET /api/employees`)
